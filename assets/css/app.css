@@ -187,7 +187,7 @@ header .navbar .menu a{
   padding: 30px 30px 40px 30px;
   width: 100%;
   max-width: 505px;
-  background: url(/assets/img/pattern-desktop.jpg) center;
+  background: url(../../assets/img/pattern-desktop.jpg) center;
   background-size: contain;
 }
 .appointment-desktop h1{
