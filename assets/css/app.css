@@ -123,7 +123,7 @@ header .navbar .menu a{
 */
 .appointment-mo{
   min-height: 80%;
-  background: url(/assets/img/banner-bg.jpg) center;
+  background: url(../../assets/img/banner-bg.jpg) center;
   background-size: cover;
 }
 .appointment-mo h1{
@@ -152,7 +152,7 @@ header .navbar .menu a{
 .cta-mo{
   min-height: 20%;
   text-align: center;
-  background: url(./assets/img/pattern.jpg) center #5674FC;
+  background: url(/assets/img/pattern.jpg) center #5674FC;
   background-size: cover;
 }
 
@@ -178,7 +178,7 @@ header .navbar .menu a{
 */
 .appointment-desktop{
   min-height: 100%;
-  background: url(./assets/img/banner-bg.jpg) center;
+  background: url(../../assets/img/banner-bg.jpg) center;
   background-size: cover;
 }
 .box{
